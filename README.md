@@ -14,3 +14,10 @@ The following dependencies are required, and should be available from PyPi.
 ``` shell
 git clone https://github.com/jct197/psw_stm.git
 ```
+
+## Overview
+from CLI:
+
+```
+~python dataread.py
+```
