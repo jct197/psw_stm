@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
 #
 # John C. Thomas 2023
-numpy
+numpy==1.18.5
 matplotlib
